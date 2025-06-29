@@ -1,0 +1,7 @@
+Hi there!
+
+This is a log scanner which can identify some SQL Injections cases, XSS, path traversal scenarios and brute force login attempts.
+
+The idea is to continue improving this log scanner as time passes by.
+
+Thanks :)
